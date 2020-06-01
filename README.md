@@ -8,7 +8,7 @@ O **Movimenta câmera** é um projeto simples que utilizei para implementar esse
 
 **[Projeto Online](https://douglasaugustojunior.github.io/MovimentaCameraJS/)**
 
-![Imagem](https://github.com/DouglasAugustoJunior/MovimentaCameraJS/blob/master/_images/Game.PNG?raw=true)
+![Imagem](https://github.com/DouglasAugustoJunior/MovimentaCameraJS/blob/master/images/Game.PNG?raw=true)
 
  
 Desenvolvido em HTML5,CSS3 e JS, ele traz uma forma para utilizar esse recurso.
