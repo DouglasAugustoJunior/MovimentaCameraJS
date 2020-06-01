@@ -3,9 +3,9 @@ var ctx = canvas.getContext('2d');
     
 // recursos do jogo
 var background = new Image();
-background.src = "_images/scene.png"; // pega a imagem de fundo
+background.src = "images/scene.png"; // pega a imagem de fundo
 var person = new Image();
-person.src = "_images/monster.png"; // pega imagem do personagem
+person.src = "images/monster.png"; // pega imagem do personagem
 
 //movimentação
 var mvleft = mvright = mvup = mvdown = false;
